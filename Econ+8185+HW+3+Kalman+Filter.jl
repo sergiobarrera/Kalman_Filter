@@ -1,6 +1,7 @@
-
+﻿
 """
 Creating functions that simulate ARMA processes
+
 
 #### Arguments
 
